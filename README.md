@@ -43,7 +43,7 @@ Une application web moderne pour la gestion de location de véhicules, construit
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/autoloc.git
+git clone git@github.com:DanihStephane/VroomRental.git
 ```
 
 2. Installez les dépendances :
@@ -120,8 +120,8 @@ src/
 
 ### Variables d'Environnement
 ```env
-VITE_API_URL=votre_url_api
-VITE_STORAGE_URL=votre_url_stockage
+VITE_API_URL=url_api (encore en cours ...)
+VITE_STORAGE_URL=url_stockage (encore en cours ...)
 ```
 
 ### Configuration Tailwind
