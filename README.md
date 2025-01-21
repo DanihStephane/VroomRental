@@ -5,6 +5,16 @@ Une application web moderne pour la gestion de location de véhicules, construit
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+![Capture d’écran du 2025-01-21 21-05-01](https://github.com/user-attachments/assets/75c1424c-e293-4e37-8485-4e80674ba3c8)
+
+![Capture d’écran du 2025-01-21 21-08-52](https://github.com/user-attachments/assets/d3f8983e-c5dd-4216-b14e-3c14ca971b69)
+
+![Capture d’écran du 2025-01-21 21-39-05](https://github.com/user-attachments/assets/016aab63-51a2-4259-be5f-6bc29e3eb656)
+
+![Capture d’écran du 2025-01-21 21-39-11](https://github.com/user-attachments/assets/a4221c9d-60f9-4cbf-b47d-634b85f81d99)
+
+![Capture d’écran du 2025-01-21 21-39-16](https://github.com/user-attachments/assets/05884ecf-176d-42e3-8176-bdbac152d720)
+
 ## ✨ Fonctionnalités
 
 ### 🌟 Interface Client
