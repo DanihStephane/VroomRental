@@ -1,8 +1,12 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { VehicleCard } from './components/VehicleCard';
+import { AdminLayout } from './components/admin/AdminLayout';
+import { VehicleManagement } from './components/admin/VehicleManagement';
+import { ReservationManagement } from './components/admin/ReservationManagement';
+import { Settings } from './components/admin/Settings';
 import { motion } from 'framer-motion';
 
 const vehicles = [
@@ -68,7 +72,13 @@ function App() {
               </section>
             </>
           } />
-          {/* Add other routes here */}
+          
+          <Route path="/admin" element={<AdminLayout />}>
+            <Route index element={<Navigate to="/admin/vehicles" replace />} />
+            <Route path="vehicles" element={<VehicleManagement />} />
+            <Route path="reservations" element={<ReservationManagement />} />
+            <Route path="settings" element={<Settings />} />
+          </Route>
         </Routes>
       </div>
     </Router>
