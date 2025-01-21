@@ -146,12 +146,12 @@ Le fichier `tailwind.config.js` contient la configuration personnalisée pour :
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
+
 ## 📝 License
 
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+ `LICENSE` free: https://github.com/DanihStephane.
 
-## 📧 Contact
+## 📞 Contact
 
-Votre Nom - [@votretwitter](https://twitter.com/votretwitter)
-
-Lien du projet: [https://github.com/votre-username/autoloc](https://github.com/votre-username/autoloc)
+Pour toute question ou suggestion, n'hésitez pas à :
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
