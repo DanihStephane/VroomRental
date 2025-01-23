@@ -155,8 +155,3 @@ Le fichier `tailwind.config.js` contient la configuration personnalisée pour :
 
 Pour toute question ou suggestion, n'hésitez pas à :
 - [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
-
-## 📞 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à :
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
